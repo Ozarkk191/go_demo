@@ -1,0 +1,5 @@
+package bookcontroller
+
+func CreateBook() {
+
+}
