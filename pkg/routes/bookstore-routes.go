@@ -1,8 +1,6 @@
 package routes
 
 import (
-	"DEMO/pkg/controllers/bookcontroller"
-
 	"github.com/gorilla/mux"
 )
 
